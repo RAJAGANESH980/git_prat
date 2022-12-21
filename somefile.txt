@@ -1,0 +1,4 @@
+Steps to setup git
+git config [--global] user.name "RAJAGANESH980"
+git config --global user.email  "rajaganesh980@gmail.com"
+
